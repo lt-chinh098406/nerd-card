@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nerd-card/static/css/main.fef7f429.css",
+    "main.js": "/nerd-card/static/js/main.194e8522.js",
+    "static/media/isocard.svg": "/nerd-card/static/media/isocard.b41d54a5b4badc617122bce47e1ade74.svg",
+    "index.html": "/nerd-card/index.html",
+    "static/media/checkpoint.svg": "/nerd-card/static/media/checkpoint.f1192641eda95b1eadd3f5ed6af32b84.svg",
+    "main.fef7f429.css.map": "/nerd-card/static/css/main.fef7f429.css.map",
+    "main.194e8522.js.map": "/nerd-card/static/js/main.194e8522.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fef7f429.css",
+    "static/js/main.194e8522.js"
+  ]
+}
